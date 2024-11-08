@@ -12,7 +12,6 @@
    
 <details>
   <summary><b>👤 About</b></summary>
-    <p>
       
 <blockquote>
 
@@ -25,7 +24,7 @@ I go hiking with my best friends. I really like the font etc, My dream is to hel
 
 ----
 
-</p>
+</blockquote>
    
 
 <p align="center"><a href="https://github.com/0xbd2/"><sup><sub>01101011 01101001 01110100 01110100 01111001 01101101 01100001 01101110</sub></sup></a></p>
