@@ -7,7 +7,7 @@
 </p>
  
 <details>
-   <summary><b>↕️ Expand for more!</b></summary>
+   <summary><b>↕️ More. . .</b></summary>
    <br>
 <details>
   <summary><b>👤 About</b></summary>
